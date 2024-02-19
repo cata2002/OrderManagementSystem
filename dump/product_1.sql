@@ -1,0 +1,9 @@
+UPDATE public.product SET prodname = 'new_prod', description = 'very_new', price = 12.1, stock = 10 WHERE id = 7;
+UPDATE public.product SET prodname = 'yess', description = 'da', price = 2.3, stock = 2 WHERE id = 8;
+UPDATE public.product SET prodname = 'papa', description = 'yummy', price = 20.1, stock = 2 WHERE id = 6;
+UPDATE public.product SET prodname = 'ceva_ieftin', description = 'da', price = 3, stock = 6 WHERE id = 4;
+UPDATE public.product SET prodname = 'ceva_nou', description = 'shiny', price = 2.2, stock = 14 WHERE id = 12;
+UPDATE public.product SET prodname = 'altceva', description = 'great', price = 6.9, stock = 12 WHERE id = 2;
+UPDATE public.product SET prodname = 'zahar', description = 'dulce', price = 2.3, stock = 8 WHERE id = 10;
+UPDATE public.product SET prodname = 'mancare_buna', description = 'yummm', price = 12.2, stock = 20 WHERE id = 13;
+UPDATE public.product SET prodname = 'paine', description = 'alba', price = 5.2, stock = 10 WHERE id = 1;

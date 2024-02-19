@@ -1,0 +1,9 @@
+UPDATE public.client SET name = 'cata', contactinfo = 'jafl' WHERE id = 4;
+UPDATE public.client SET name = 'cata', contactinfo = 'jafl' WHERE id = 6;
+UPDATE public.client SET name = 'cata', contactinfo = 'jafl' WHERE id = 7;
+UPDATE public.client SET name = 'cata', contactinfo = 'jafl1' WHERE id = 8;
+UPDATE public.client SET name = 'cata2', contactinfo = 'jag]sdhl2' WHERE id = 12;
+UPDATE public.client SET name = 'client_nou', contactinfo = 'contact_nou' WHERE id = 13;
+UPDATE public.client SET name = 'alex', contactinfo = 'zeu@yahoo.com' WHERE id = 14;
+UPDATE public.client SET name = 'alin', contactinfo = 'acasa' WHERE id = 16;
+UPDATE public.client SET name = 'cata_first', contactinfo = 'tera' WHERE id = 1;

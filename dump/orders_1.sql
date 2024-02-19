@@ -1,0 +1,16 @@
+UPDATE public.orders SET "prodId" = 1, "clientId" = 1, quantity = 5 WHERE id = 1;
+UPDATE public.orders SET "prodId" = 1, "clientId" = 1, quantity = 20 WHERE id = 2;
+UPDATE public.orders SET "prodId" = 1, "clientId" = 1, quantity = 20 WHERE id = 3;
+UPDATE public.orders SET "prodId" = 4, "clientId" = 4, quantity = 1 WHERE id = 4;
+UPDATE public.orders SET "prodId" = 4, "clientId" = 4, quantity = 1 WHERE id = 5;
+UPDATE public.orders SET "prodId" = 1, "clientId" = 12, quantity = 1 WHERE id = 6;
+UPDATE public.orders SET "prodId" = 8, "clientId" = 8, quantity = 3 WHERE id = 7;
+UPDATE public.orders SET "prodId" = 8, "clientId" = 8, quantity = 3 WHERE id = 8;
+UPDATE public.orders SET "prodId" = 5, "clientId" = 1, quantity = 2 WHERE id = 9;
+UPDATE public.orders SET "prodId" = 8, "clientId" = 1, quantity = 1 WHERE id = 10;
+UPDATE public.orders SET "prodId" = 8, "clientId" = 1, quantity = 2 WHERE id = 11;
+UPDATE public.orders SET "prodId" = 4, "clientId" = 13, quantity = 1 WHERE id = 12;
+UPDATE public.orders SET "prodId" = 5, "clientId" = 7, quantity = 1 WHERE id = 13;
+UPDATE public.orders SET "prodId" = 6, "clientId" = 4, quantity = 1 WHERE id = 14;
+UPDATE public.orders SET "prodId" = 5, "clientId" = 4, quantity = 3 WHERE id = 15;
+UPDATE public.orders SET "prodId" = 10, "clientId" = 4, quantity = 1 WHERE id = 16;
